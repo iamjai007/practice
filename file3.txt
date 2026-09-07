@@ -1,1 +1,2 @@
 third file modified
+feature2 added
